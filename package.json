@@ -1,22 +1,19 @@
 {
-  "name": "js_scripts_template",
+  "name": "linked-lists",
   "version": "1.0.0",
   "main": "index.js",
   "type": "module",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Eki213/js_scripts_template.git"
+    "url": "git+https://github.com/Eki213/linked-lists.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Eki213/js_scripts_template/issues"
+    "url": "https://github.com/Eki213/linked-lists/issues"
   },
-  "homepage": "https://github.com/Eki213/js_scripts_template#readme",
+  "homepage": "https://github.com/Eki213/linked-lists#readme",
   "description": "",
   "devDependencies": {
     "@eslint/css": "^0.11.1",
